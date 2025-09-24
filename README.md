@@ -94,18 +94,4 @@ Keep contributions aligned with the project goal: honest, transparent keep-awake
 
 ## License
 
-MIT License — replace `<Your Name>` and the year in `LICENSE` file.
-
----
-
-## Contact
-
-For questions or feedback, open an issue in the repository or contact the maintainer (replace with your email or GitHub handle).
-
----
-
-If you want, I can:
-
-* Produce the `README.md` file as a downloadable file,
-* Add badges (build / python version / license),
-* Or create a short `CONTRIBUTING.md` to go with it. Which would you like?
+MIT License 
